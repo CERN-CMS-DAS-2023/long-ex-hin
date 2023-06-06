@@ -8,10 +8,9 @@ The notebooks contain introductory remarks and comments which will help to get s
 
 
 The notebook is expected to run using SWAN. 
-To get started you can either click here:
+To get started you can click here:
 
 [![SWAN](https://swanserver.web.cern.ch/swanserver/images/badge_swan_white_150.png)](https://cern.ch/swanserver/cgi-bin/go/?projurl=https://gitlab.cern.ch/psilva/hianalysis.git)
 
-for an automated start.
 
 Once the area is setup you can open the first notebook from the swan webpage.
